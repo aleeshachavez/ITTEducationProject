@@ -1,0 +1,12 @@
+C:\Users\aleesha.chavez\RiderProjects\InternalGoogleApp\Coffee.core\bin\Debug\net5.0\Coffee.core.deps.json
+C:\Users\aleesha.chavez\RiderProjects\InternalGoogleApp\Coffee.core\bin\Debug\net5.0\Coffee.core.dll
+C:\Users\aleesha.chavez\RiderProjects\InternalGoogleApp\Coffee.core\bin\Debug\net5.0\ref\Coffee.core.dll
+C:\Users\aleesha.chavez\RiderProjects\InternalGoogleApp\Coffee.core\bin\Debug\net5.0\Coffee.core.pdb
+C:\Users\aleesha.chavez\RiderProjects\InternalGoogleApp\Coffee.core\obj\Debug\net5.0\Coffee.core.csprojAssemblyReference.cache
+C:\Users\aleesha.chavez\RiderProjects\InternalGoogleApp\Coffee.core\obj\Debug\net5.0\Coffee.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleesha.chavez\RiderProjects\InternalGoogleApp\Coffee.core\obj\Debug\net5.0\Coffee.core.AssemblyInfoInputs.cache
+C:\Users\aleesha.chavez\RiderProjects\InternalGoogleApp\Coffee.core\obj\Debug\net5.0\Coffee.core.AssemblyInfo.cs
+C:\Users\aleesha.chavez\RiderProjects\InternalGoogleApp\Coffee.core\obj\Debug\net5.0\Coffee.core.csproj.CoreCompileInputs.cache
+C:\Users\aleesha.chavez\RiderProjects\InternalGoogleApp\Coffee.core\obj\Debug\net5.0\Coffee.core.dll
+C:\Users\aleesha.chavez\RiderProjects\InternalGoogleApp\Coffee.core\obj\Debug\net5.0\ref\Coffee.core.dll
+C:\Users\aleesha.chavez\RiderProjects\InternalGoogleApp\Coffee.core\obj\Debug\net5.0\Coffee.core.pdb
