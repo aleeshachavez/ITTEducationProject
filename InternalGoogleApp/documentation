@@ -1,0 +1,5 @@
+#First Commit 1/18/2021
+#description: internal google app project, working with coffee bag data: BrandNames, locations, roast types, and age of buyers of different bags of coffee
+              -UI website, where users who need access to this data can view, search, add and delete certain data.
+              -current model stores memory of the coffee data in memory, will implement database soon
+               
